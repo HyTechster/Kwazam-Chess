@@ -1,0 +1,12 @@
+Turn: 0
+RedMoved: false
+BlueMoved: false
+StartVal: 2
+b2a|b4a|b5a|b4a|b3a
+b1a|b1a|b1a|b1a|b1a
+sqa|sqa|sqa|sqa|sqa
+sqa|sqa|sqa|sqa|sqa
+sqa|sqa|sqa|sqa|sqa
+sqa|sqa|sqa|sqa|sqa
+r1a|r1a|r1a|r1a|r1a
+r3a|r4a|r5a|r4a|r2a
